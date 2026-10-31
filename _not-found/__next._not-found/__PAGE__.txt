@@ -1,0 +1,56 @@
+2:"$Sreact.fragment"
+3:"/x3ff6lmfo/_next/static/chunks/2gp_t3vt0-lc6.js"
+4:"/x3ff6lmfo/_next/static/chunks/1x0-7fcjl7kg0.js"
+5:I[39756,["$3","$4"],"default"]
+6:I[37457,["$3","$4"],"default"]
+b:"/x3ff6lmfo/_next/static/chunks/3xwu8-b8q5_yn.js"
+c:"/x3ff6lmfo/_next/static/chunks/0khuspeaej8s5.js"
+d:"/x3ff6lmfo/_next/static/chunks/268x61pdgmhu2.js"
+e:"/x3ff6lmfo/_next/static/chunks/0cwqbfwc1-b9t.js"
+f:I[14914,["$3","$4","$b","$c","$d","$e"],"ClientOnly"]
+10:I[22016,["$3","$4","$b","$c","$d","$e"],""]
+11:I[35960,["$3","$4","$b","$c","$d","$e"],"HeaderBar"]
+20:"ViewportBoundary"
+21:I[97367,["$3","$4"],"$20"]
+22:"MetadataBoundary"
+23:I[97367,["$3","$4"],"$22"]
+24:"$Sreact.suspense"
+25:I[27201,["$3","$4"],"IconMark"]
+8:X
+8:C
+9:X
+a:[["children",{"s":"__PAGE__","h":160,"d":{"r":["$","$2","c",{"children":[["$","div",null,{"className":"flex min-h-dvh flex-col","children":[["$","a",null,{"href":"#main-content","className":"sr-only z-50 rounded-lg bg-card px-3 py-2 text-sm font-medium shadow-md focus:not-sr-only focus:fixed focus:top-2 focus:start-2","children":"پرش به محتوای اصلی"}],["$","header",null,{"className":"sticky top-0 z-40 flex h-14 shrink-0 items-center gap-2 border-b bg-card/95 px-2 backdrop-blur-sm supports-backdrop-filter:bg-card/85 md:gap-3 md:px-4","children":["$","$Lf",null,{"fallback":[["$","div",null,{"data-slot":"skeleton","aria-hidden":"true","className":"animate-pulse bg-[#eceff3] size-9 rounded-lg md:hidden"}],["$","span",null,{"className":"grid shrink-0 place-items-center rounded-xl bg-primary text-primary-foreground shadow-xs size-8 md:hidden","aria-hidden":"true","children":["$","svg",null,{"viewBox":"0 0 24 24","className":"size-[62%]","children":["$","path",null,{"fill":"currentColor","d":"M5 5.5h14a1 1 0 0 1 1 1V8a1 1 0 0 1-1 1h-5v6h5a1 1 0 0 1 1 1v1.5a1 1 0 0 1-1 1H5a1 1 0 0 1-1-1V16a1 1 0 0 1 1-1h5V9H5a1 1 0 0 1-1-1V6.5a1 1 0 0 1 1-1Z"}]}]}],["$","div",null,{"className":"min-w-0 items-center gap-2.5 hidden shrink-0 pe-2 md:flex","children":[["$","$L10",null,{"href":"/dashboard","className":"flex items-center gap-2.5 rounded-lg","children":[["$","span",null,{"className":"grid shrink-0 place-items-center rounded-xl bg-primary text-primary-foreground shadow-xs size-9","aria-hidden":"true","children":["$","svg",null,{"viewBox":"0 0 24 24","className":"size-[62%]","children":["$","path",null,{"fill":"currentColor","d":"M5 5.5h14a1 1 0 0 1 1 1V8a1 1 0 0 1-1 1h-5v6h5a1 1 0 0 1 1 1v1.5a1 1 0 0 1-1 1H5a1 1 0 0 1-1-1V16a1 1 0 0 1 1-1h5V9H5a1 1 0 0 1-1-1V6.5a1 1 0 0 1 1-1Z"}]}]}],["$","span",null,{"className":"flex flex-col leading-none","children":[["$","span",null,{"className":"text-[0.95rem] font-bold","children":"الباجی"}],["$","span",null,{"className":"mt-1 text-[0.625rem] font-semibold tracking-[0.18em] text-muted-foreground","dir":"ltr","children":"ALBAJI"}]]}]]}],["$","span",null,{"className":"shrink-0 rounded-full border border-cream-border bg-cream-bg px-2 py-px text-[0.7rem] font-medium text-cream-fg","children":"نسخه نمایشی"}]]}],["$","span",null,{"className":"hidden h-6 w-px shrink-0 bg-border md:block","aria-hidden":"true"}],["$","div",null,{"data-slot":"skeleton","aria-hidden":"true","className":"animate-pulse rounded-md bg-[#eceff3] h-4 w-40 md:ms-2"}],["$","div",null,{"className":"ms-auto flex items-center gap-2","children":[["$","div",null,{"data-slot":"skeleton","aria-hidden":"true","className":"animate-pulse bg-[#eceff3] hidden h-9 w-56 rounded-lg md:block min-[1200px]:w-80"}],["$","div",null,{"data-slot":"skeleton","aria-hidden":"true","className":"animate-pulse bg-[#eceff3] size-9 rounded-lg"}],["$","div",null,{"data-slot":"skeleton","aria-hidden":"true","className":"animate-pulse bg-[#eceff3] size-9 rounded-full"}]]}]],"children":["$","$L11",null,{}]}]}],["$","div",null,{"className":"flex flex-1","children":[["$","$Lf",null,{"fallback":["$","div",null,{"className":"sticky top-14 hidden h-[calc(100dvh-3.5rem)] shrink-0 flex-col self-start overflow-y-auto overflow-x-hidden border-e bg-card md:flex w-16 min-[1200px]:w-64","aria-hidden":"true","children":["$","div",null,{"className":"flex flex-col gap-1 p-3","children":[["$","div","dashboard",{"className":"flex h-11 items-center gap-3 px-1 min-[1200px]:px-2","children":[["$","div",null,{"data-slot":"skeleton","aria-hidden":"true","className":"animate-pulse bg-[#eceff3] size-8 rounded-lg"}],["$","div",null,{"data-slot":"skeleton","aria-hidden":"true","className":"animate-pulse rounded-md bg-[#eceff3] hidden h-3.5 w-32 min-[1200px]:block"}]]}],["$","div","sales",{"className":"flex h-11 items-center gap-3 px-1 min-[1200px]:px-2","children":[["$","div",null,{"data-slot":"skeleton","aria-hidden":"true","className":"animate-pulse bg-[#eceff3] size-8 rounded-lg"}],"$L12"]}],"$L13","$L14","$L15","$L16"]}]}],"children":"$L17"}],"$L18"]}],"$L19"]}],["$L1a","$L1b","$L1c","$L1d"],"$L1e"]}],"p":"$@1f","v":null,"s":"$9"}}]]
+1:[["children",{"s":"/_not-found","h":64,"d":{"r":["$","$2","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","template":["$","$L6",null,{}]}]]}],"p":"$@7","v":"$8","s":"$9"},"c":"$Qa"}]]
+0:{"t":{"t":{"s":"","h":16,"c":"$Q1"},"h":{"r":["$","$2","h",{"children":[["$","meta",null,{"name":"robots","content":"noindex"}],["$","$L21",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","2",{"name":"theme-color","content":"#f6f7f9"}],["$","meta","3",{"name":"color-scheme","content":"light"}]]}],["$","$L23",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$24",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"صفحه پیدا نشد — الباجی"}],["$","meta","1",{"name":"description","content":"پلتفرم یکپارچه مدیریت سفارش، مالی، لجستیک و مشتریان صادرات فولاد الباجی"}],["$","meta","2",{"name":"robots","content":"noindex, nofollow"}],["$","link","3",{"rel":"icon","href":"/x3ff6lmfo/favicon.ico?favicon.117ezoe8m31dk.ico","sizes":"48x48","type":"image/x-icon"}],["$","$L25","4",{}]]}]}],null]}],null]}],"p":"$@26","v":null,"s":"$9"}},"a":"$@27","u":"$@28","b":"8RaZbJSpmC__M8_LgZNL-"}
+29:I[51521,["$3","$4","$b","$c","$d","$e"],"Sidebar"]
+2a:I[93150,["$3","$4","$b","$c","$d","$e"],"WorkspaceTabs"]
+2b:I[38094,["$3","$4","$b","$c","$d","$e"],"TabLocationSync"]
+2c:I[3732,["$3","$4","$b","$c","$d","$e"],"PanelToneSync"]
+2d:I[48969,["$3","$4","$b","$c","$d","$e"],"AppBreadcrumbs"]
+2e:I[52348,["$3","$4","$b","$c","$d","$e"],"NextStepBar"]
+2f:I[97960,["$3","$4","$b","$c","$d","$e"],"NotFoundView"]
+30:I[96539,["$3","$4","$b","$c","$d","$e"],"DialogHost"]
+31:"StorageErrorNotice"
+32:I[40692,["$3","$4","$b","$c","$d","$e"],"$31"]
+33:I[97367,["$3","$4"],"OutletBoundary"]
+12:["$","div",null,{"data-slot":"skeleton","aria-hidden":"true","className":"animate-pulse rounded-md bg-[#eceff3] hidden h-3.5 w-32 min-[1200px]:block"}]
+13:["$","div","purchase",{"className":"flex h-11 items-center gap-3 px-1 min-[1200px]:px-2","children":[["$","div",null,{"data-slot":"skeleton","aria-hidden":"true","className":"animate-pulse bg-[#eceff3] size-8 rounded-lg"}],["$","div",null,{"data-slot":"skeleton","aria-hidden":"true","className":"animate-pulse rounded-md bg-[#eceff3] hidden h-3.5 w-32 min-[1200px]:block"}]]}]
+14:["$","div","finance",{"className":"flex h-11 items-center gap-3 px-1 min-[1200px]:px-2","children":[["$","div",null,{"data-slot":"skeleton","aria-hidden":"true","className":"animate-pulse bg-[#eceff3] size-8 rounded-lg"}],["$","div",null,{"data-slot":"skeleton","aria-hidden":"true","className":"animate-pulse rounded-md bg-[#eceff3] hidden h-3.5 w-32 min-[1200px]:block"}]]}]
+15:["$","div","logistics",{"className":"flex h-11 items-center gap-3 px-1 min-[1200px]:px-2","children":[["$","div",null,{"data-slot":"skeleton","aria-hidden":"true","className":"animate-pulse bg-[#eceff3] size-8 rounded-lg"}],["$","div",null,{"data-slot":"skeleton","aria-hidden":"true","className":"animate-pulse rounded-md bg-[#eceff3] hidden h-3.5 w-32 min-[1200px]:block"}]]}]
+16:["$","div","crm",{"className":"flex h-11 items-center gap-3 px-1 min-[1200px]:px-2","children":[["$","div",null,{"data-slot":"skeleton","aria-hidden":"true","className":"animate-pulse bg-[#eceff3] size-8 rounded-lg"}],["$","div",null,{"data-slot":"skeleton","aria-hidden":"true","className":"animate-pulse rounded-md bg-[#eceff3] hidden h-3.5 w-32 min-[1200px]:block"}]]}]
+17:["$","$L29",null,{}]
+18:["$","div",null,{"className":"flex min-w-0 flex-1 flex-col","children":[["$","$Lf",null,{"children":[["$","$L2a",null,{}],["$","$L2b",null,{}],["$","$L2c",null,{}]]}],["$","div",null,{"className":"mx-auto flex w-full max-w-[90rem] flex-1 flex-col px-4 pb-12 md:px-6","children":[["$","div",null,{"className":"flex min-h-13 items-center py-3","children":["$","$Lf",null,{"children":["$","$L2d",null,{}]}]}],["$","$Lf",null,{"children":["$","$L2e",null,{}]}],["$","main",null,{"id":"main-content","tabIndex":-1,"className":"flex-1 outline-none","children":["$","$L2f",null,{}]}]]}]]}]
+19:["$","$Lf",null,{"children":[["$","$L30",null,{}],["$","$L32",null,{}]]}]
+1a:["$","script","script-0",{"src":"/x3ff6lmfo/_next/static/chunks/3xwu8-b8q5_yn.js","async":true}]
+1b:["$","script","script-1",{"src":"/x3ff6lmfo/_next/static/chunks/0khuspeaej8s5.js","async":true}]
+1c:["$","script","script-2",{"src":"/x3ff6lmfo/_next/static/chunks/268x61pdgmhu2.js","async":true}]
+1d:["$","script","script-3",{"src":"/x3ff6lmfo/_next/static/chunks/0cwqbfwc1-b9t.js","async":true}]
+1e:["$","$L33",null,{"children":["$","$24",null,{"name":"Next.MetadataOutlet","children":"$@34"}]}]
+28:true
+9:300
+34:null
+9:C
+27:0
+7:"$undefined"
+26:"$undefined"
+1f:"$undefined"
